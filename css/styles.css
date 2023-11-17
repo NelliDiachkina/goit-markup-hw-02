@@ -19,11 +19,14 @@ ul {
   letter-spacing: 0.32px;
   color: #434455;
 }
-.menu-link {
+.menu-link,
+.address-link {
   font-size: 16px;
-  font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.32px;
+}
+.menu-link {
+  font-weight: 500;
   color: #2e2f42;
 }
 .address-link {
